@@ -19,6 +19,10 @@
 |    HGBC    | 95.3555 |   95.6959 | 95.3555| 95.3468 |
 | Light-GBM  | 95.4858 |   95.8062 | 95.4858| 95.4779 |
 
+<br>
+
+      Also, designed a Neural Network Model that yielded an Accuracy of 88.61 % 
+
 <hr>
 
 ### <p align="center">Dataset CSV File Link : [CLICK HERE](https://drive.google.com/file/d/1NcaplfUvO19JAGxObB3UXJYe7Nn7oTC4/view?usp=sharing)</p>
